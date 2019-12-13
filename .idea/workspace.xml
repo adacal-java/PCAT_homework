@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983d433c-ccd6-49fd-8e9c-972047602738" name="Default Changelist" comment="" />
+    <list default="true" id="983d433c-ccd6-49fd-8e9c-972047602738" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PCAT/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PCAT/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/WebDriverFactory.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Upi7KEJgkqNv7iNratxMk51WC1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -40,18 +57,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="test1.click" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.test1.test">
+    <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PCAT_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="PCAT.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PCAT.tests" />
+      <option name="MAIN_CLASS_NAME" value="PCAT.tests.test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.hoverOverpicture" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PCAT_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PCAT.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.test1" />
-      <option name="METHOD_NAME" value="click" />
+      <option name="MAIN_CLASS_NAME" value="PCAT.tests.test1" />
+      <option name="METHOD_NAME" value="hoverOverpicture" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.moreButtonLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PCAT_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PCAT.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="PCAT.tests.test1" />
+      <option name="METHOD_NAME" value="moreButtonLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.numberOfPicture" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PCAT_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PCAT.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="PCAT.tests.test1" />
+      <option name="METHOD_NAME" value="numberOfPicture" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PCAT_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PCAT.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PCAT.tests" />
+      <option name="MAIN_CLASS_NAME" value="PCAT.tests.test1" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -61,7 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.test1.click" />
+        <item itemvalue="TestNG.test1.test" />
+        <item itemvalue="TestNG.test1" />
+        <item itemvalue="TestNG.test1.numberOfPicture" />
+        <item itemvalue="TestNG.test1.moreButtonLink" />
+        <item itemvalue="TestNG.test1.hoverOverpicture" />
       </list>
     </recent_temporary>
   </component>
@@ -77,5 +169,18 @@
       <updated>1576059768823</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
