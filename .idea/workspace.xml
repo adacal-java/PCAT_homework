@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983d433c-ccd6-49fd-8e9c-972047602738" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/Chekout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/Chekout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/Deneme.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,18 +46,6 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="TestNG.test1.test">
     <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -150,12 +140,24 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.test1.test" />
-        <item itemvalue="TestNG.test1" />
         <item itemvalue="TestNG.test1.numberOfPicture" />
         <item itemvalue="TestNG.test1.moreButtonLink" />
         <item itemvalue="TestNG.test1.hoverOverpicture" />
+        <item itemvalue="TestNG.test1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -184,19 +186,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="689" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" />
-    <state x="689" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" />
-    <state x="464" y="127" key="CommitChangelistDialog2" />
-    <state x="464" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" />
-    <state x="168" y="94" key="DiffContextDialog" />
-    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" />
+    <state x="689" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578939653616" />
+    <state x="689" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state x="464" y="127" key="CommitChangelistDialog2" timestamp="1578939653616" />
+    <state x="464" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state x="168" y="110" width="1344" height="779" key="DiffContextDialog" timestamp="1578939653617">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state x="168" y="110" width="1344" height="779" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.973@0.23.1680.973" timestamp="1578939653617" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1578939653616" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578939653616" />
+    <state x="623" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578941000867">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="623" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.23.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1578941000867" />
+    <state x="533" y="234" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1578939675760">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="533" y="234" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/1680.23.1920.1057/0.23.1680.973@0.23.1680.973" timestamp="1578939675760" />
   </component>
 </project>
