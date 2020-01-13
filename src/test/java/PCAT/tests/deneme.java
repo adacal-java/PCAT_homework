@@ -9,7 +9,9 @@ public class deneme {
 
     public void test1(){
 
+        System.out.println("Hi");
         System.out.println("hello world");
+
 
 
     }
