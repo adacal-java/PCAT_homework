@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983d433c-ccd6-49fd-8e9c-972047602738" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/Chekout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/Chekout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/Deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PCAT/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PCAT/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

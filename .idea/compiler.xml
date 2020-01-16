@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PCAT_homework" />
+        <module name="P" />
       </profile>
     </annotationProcessing>
   </component>
